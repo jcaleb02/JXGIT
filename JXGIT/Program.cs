@@ -11,6 +11,7 @@ namespace JXGIT
         static void Main(string[] args)
         {
             int i = 1;
+            string me = "testing GIT";
         }
     }
 }
